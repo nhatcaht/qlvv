@@ -1,0 +1,5 @@
+﻿.w3-group {position:relative;margin-top:30px;margin-bottom:30px;}
+.w3-input,.w3-textarea {padding:10px;display:block;border:none;border-bottom:1px solid #808080;}
+.w3-label {
+position:absolute;top:0;left:0;color:#009688;
+transition:0.2s ease all;-moz-transition:0.2s ease all;-webkit-transition:0.2s ease all;}
